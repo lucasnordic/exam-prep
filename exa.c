@@ -1,9 +1,9 @@
 //
 // Created by Lucas on 2022-03-14.
 //
-// Exercise X WIP
+// Exercise 10 DONE
 //
-// blabla
+// shift a single bit
 
 #include <stdio.h>
 #include <stdlib.h>
