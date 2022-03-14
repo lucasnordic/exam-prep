@@ -40,7 +40,6 @@ int main (void) {
     int month = 11;
     int day = 27;
     int year = 1997;
-
     increase_day_counter(month,day,year,&dayCounter);
 
     dayCounter = 0;
